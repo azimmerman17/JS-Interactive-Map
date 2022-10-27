@@ -1,0 +1,12 @@
+#map {
+    height: 600px;
+    margin-top: 10px;
+}
+
+* {
+    text-align: center;
+}
+
+select, input, label {
+    margin: 0 5px;
+}
