@@ -26,6 +26,7 @@ for (let i = 0; i < placeArr.length; i++) {
 const submitForm = document.createElement('input')
     submitForm.type = 'submit'
     submitForm.value = 'Go'
+    submitForm.id = 'submit'
  
 
 
